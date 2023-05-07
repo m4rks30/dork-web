@@ -1,0 +1,24 @@
+[+]ssh
+intitle:index.of id_rsa -id_rsa.pub
+filetype:log username putty
+[+]email-list
+filetype:xls inurl:"email.xls"
+[+]weather
+intitle:"Weather Wing WS-2"
+[+]zoom
+inurl:zoom.us/j and intext:scheduled for
+[+]dup-sql
+"index of" "database.sql.zip"
+[+]admin
+intitle:"Index of" wp-admin
+[+]Apache2
+intitle:"Apache2 Ubuntu Default Page: It works"
+[+]ph[myadmin
+"Index of" inurl:phpmyadmin
+[+]jira/k
+inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
+inurl:app/kibana intext:Loading Kibana
+[+]cpanel
+inurl:_cpanel/forgotpwd
+[+]Government documents
+allintitle: restricted filetype:doc site:gov
