@@ -1,0 +1,4 @@
+inurl:top.htm inurl:currenttime
+intitle:"webcamXP 5"
+inurl:"lvappl.htm"
+inurl:/sample/LvAppl/lvappl.htm
