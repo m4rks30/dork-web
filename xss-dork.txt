@@ -1,0 +1,33 @@
+inurl:com_feedpostold/feedpost.php?url=
+inurl:/products/orkutclone/scrapbook.php?id=
+inurl:/products/classified/headersearch.php?sid=
+inurl:/poll/default.asp?catid=
+inurl:/search_results.php?search=Search&k=
+inurl:/preaspjobboard//Employee/emp_login.asp?msg1=
+inurl:/pages/match_report.php?mid= pages/match_report.php?mid=
+inurl:/notice.php?msg= /notice.php?msg=
+inurl:/gen_confirm.php?errmsg= /gen_confirm.php?errmsg=
+inurl:/ndex.php?option=com_easygb&Itemid=
+inurl:/2wayvideochat/index.php?r=
+inurl:/view.php?PID= /view.php?PID=
+inurl:/Property-Cpanel.html?pid=/Property-Cpanel.html?pid=
+inurl:/showproperty.php?id= /showproperty.php?id=
+inurl:/vehicle/buy_do_search/?order_direction=
+inurl:/elms/subscribe.php?course_id= /elms/subscribe.php?course_id=
+inurl:/winners.php?year=2008&type= /winners.php?year=2008&type=
+inurl:/schoolmv2/html/studentmain.php?session=
+inurl:/site_search.php?sfunction= /site_search.php?sfunction=
+inurl:/search.php?search_keywords= /search.php?search_keywords=
+inurl:/hexjector.php?site= /hexjector.php?site=
+inurl:/news.php?id= /news.php?id=
+inurl:/ndex.php?view=help&faq=1&ref=
+inurl:"contentPage.php?id="
+inurl:"displayResource.php?id="
+intext:"Website by Mile High Creative"
+inurl:/index.php?option=com_reservations&task=askope&nids er=2&namser= "com_reservations"
+inurl:/info.asp?page=fullstory&key=1&news_type=news&onvan =
+inurl:/ser/parohija.php?id= /ser/parohija.php?id=
+inurl:/strane/pas.php?id= /strane/pas.php?id=
+inurl:/main.php?sid= /main.php?sid=
+
+
