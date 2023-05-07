@@ -179,4 +179,4 @@ inurl /fckeditor/editor/filemanager/upload/test.html
 /webmanage/fckeditor/editor/filemanager/connectors/test.html
 /webmanage/fckeditor/editor/filemanager/browser/default/connectors/test.html
 /admin/system/editor/FCKeditor/editor/fckeditor.Html
-[+]dork 
+[+]dork xss
