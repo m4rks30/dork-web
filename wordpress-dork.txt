@@ -1,0 +1,128 @@
+inurl:wp-content/debug.log 
+inurl:"/wp-content/plugins/woocommerce"
+filetype:sql intext:wp_users
+Options -Indexes
+ini_set('display_errors','Off');
+ini_set('error_reporting', E_ALL );
+define('WP_DEBUG', false);
+define('WP_DEBUG_DISPLAY', false);
+inurl:"/wp-content/plugins/super-forms/"
+inurl:uno.php
+inurl:"/console/login/LoginForm.jsp"
+"machform" inurl:"view.php"
+intext:"Incom CMS 2.0"
+inurl:/pro_users/login
+inurl:/wp-content/themes/altair/
+inurl:/cgi-bin/manlist?section
+"Powered by vBulletin(R) Version 5.6.3"
+intitle:"Please Login" "Use FTM Push"
+inurl:opac_css
+intitle:"Powered by Pro Chat Rooms"
+inurl:"woocommerce-exporter"
+Server: Mida eFramework
+intitle:"Sphider Admin Login"
+inurl:/wp-content/plugins/wp-file-manager/readme.txt
+intext:"Published with Textpattern CMS"
+intext:"Powered by Piwigo"
+intext:"Powered by Typesetter"
+inurl:"images/lists?cid=13"
+inurl:device ext:rsp
+inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php" - Wordpress File Manager
+inurl: login.rsp
+inurl:''com_gmapfp''
+inurl:wp-content/plugins/wpdiscuz
+inurl:wp-content/plugins/easy-media-gallery-pro
+inurl:"/vam/index_vam_op.php"
+inurl:wp-content/plugins/my-calendar
+intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*
+inurl:wp-content/plugins/redirection
+inurl:wp-content/plugins/updraftplus
+Index of : wp-content/plugins/wpmudev-updates/
+inurl:wp-content/plugins/sfwd-lms
+inurl:wp-content/plugins/email-subscribers
+inurl:wp-content/plugins/arforms
+inurl:wp-content/plugins/safe-svg
+inurl:wp-content/plugins/iwp-client
+inurl:wp-content/plugins/async-javascript
+inurl:wp-content/plugins/lifterlms
+inurl:wp-content/plugins/idx-broker-platinum
+inurl:wp-content/plugins/all-in-one-wp-migration
+inurl:wp-content/plugins/wpjobboard
+inurl:wp-content/plugins/sendpress
+inurl:wp-content/plugins/wd-google-maps
+inurl:wp-content/plugins/knight-lab-timelinejs
+inurl:wp-content/themes/corona
+inurl:wp-content/plugins/angwp
+inurl:wp-content/plugins/angwp
+inurl:wp-content/plugins/wise-chat
+allintext: wp-content/themes/injob
+inurl:wp-content/plugins/gravityforms
+inurl:wp-content/plugins/knight-lab-timelinejs
+inurl:/wp-content/plugins/angwp
+inurl:/wp-content/themes/realestate-7
+inurl:wp-content/plugins/kingcomposer
+allintext:wp-content/plugins/angwp
+inurl:wp-content/plugins/form-maker
+inurl:wp-content/plugins/newsletter
+inurl:wp-content/plugins/wp-live-chat-support
+allintext:wp-content/plugins/acf-to-rest-api
+inurl:wp-content/themes/sparky
+inurl:wp-content/plugins/wp-jobsearch
+inurl:wp-content/themes/careerfy
+inurl:wp-content/plugins/security-malware-firewall
+inurl:wp-content/plugins/payment-form-for-paypal-pro
+inurl:wp-content/plugins/testimonials-widget
+inurl:wp-content/themes/careerup
+inurl:wp-content/themes/nexos
+inurl:wp-content/plugins/wpforms-lite
+intitle:"IceWarp WebClient"
+inurl:wp-content/plugins/coming-soon
+inurl:wp-content/plugins/gift
+inurl:wp-content/plugins/form-maker
+inurl:wp-content/themes/traveler
+intext:piwik "Sign in"
+intext:Powered by 2Moons 2009-2013
+intext:"Centreon 2005-2019"
+inurl:wp-content/themes/citybook
+inurl:wp-content/themes/traveler
+inurl:wp-content/plugins/wpDiscuz
+inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter
+inurl:wp-content/plugins/wp-pro-quiz
+inurl:/webmail intext:Tecnologia fornecida por IceWarp Server
+inurl:wp-content/plugins/ar-contactus
+intext:Basato su Comunicazioni Integrate IceWarp
+intext:Basato su IceWarp Server
+inurl:wp-content/plugins/testimonial-rotator
+intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
+intext:"TopManage (R) 2002 - 2020"
+inurl:wp-content/plugins/kingcomposer
+inurl:wp-content/themes/newspaper
+intext:powered by JoomSport - sport WordPress plugin
+inurl:wp-content/plugins/elementor
+"powered by Typo3"
+"index of" "plugins/wp-rocket"
+inurl:wp-content/plugins/brizy
+index of /wp-content/uploads/backupbuddy
+inurl:"wp-contentpluginsphoto-gallery"
+inurl:wp-content/plugins/sportspress
+inurl:wp-content/plugins/simple-file-list
+inurl:/wp-content/plugins/wp-ecommerce-shop-styling/
+inurl:wp-content/plugins/wp-jobsearch
+inurl:wp-content/plugins/ajax-load-more/lang/
+inurl:wp-content/plugins/final-tiles-grid-gallery-lite
+inurl:wp-content/plugins/woocommerce
+inurl:wp-content/plugins/yop-poll
+inurl:wp-content/plugins/final-tiles-grid-gallery-lite
+inurl:wp-content/plugins/adrotate
+inurl:wp-content/plugins/mappress-google-maps-for-wordpress
+inurl:wp-content/plugins/bbPress
+inurl:wp-content/plugins/gtranslate
+inurl:wp-content/plugins/grand-media
+inurl:wp-content/plugins/iframe
+inurl:wp-content/plugins/woo-order-export-lite
+inurl:wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7
+inurl:"wp-content/plugins/siteorigin-panels"
+inurl:wp-content/plugins/official-mailerlite-sign-up-forms
+inurl:"wp-content/plugins/form-maker"
+intitle:"Index of" intitle:"UserPro" -uploads
+inurl:"index.php?option=com_ccnewsletter" inurl:sbid
